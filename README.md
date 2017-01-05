@@ -4,8 +4,8 @@ Updated Version of Yoga plus Android App.
 #Screenshots :
 ![yoga plus](https://cloud.githubusercontent.com/assets/16360498/21696638/ed939c8a-d3b4-11e6-829e-69cab40d072d.png)
 
-Copyright 2017 Bharathvaj 
 
+#License :
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
